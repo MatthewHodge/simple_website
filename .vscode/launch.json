@@ -15,6 +15,12 @@
             "request": "launch",
             "name": "Open test2.html",
             "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test2.html"
+        }, 
+        {
+            "type":"msedge",
+            "request": "launch",
+            "name": "Open test3.html",
+            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test3.html"
         }
     ]
 }
