@@ -7,26 +7,8 @@
         {
             "type":"msedge",
             "request": "launch",
-            "name": "Open test.html",
-            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test.html"
-        }, 
-        {
-            "type":"msedge",
-            "request": "launch",
-            "name": "Open test2.html",
-            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test2.html"
-        }, 
-        {
-            "type":"msedge",
-            "request": "launch",
-            "name": "Open test3.html",
-            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test3.html"
-        },
-        {
-            "type":"msedge",
-            "request": "launch",
-            "name": "Open test4.html",
-            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\test4.html"
+            "name": "Open Hub Server",
+            "file": "c:\\Users\\mathw\\Documents\\GitHub\\simple_website\\onesetup.html"
         }
     ]
 }
